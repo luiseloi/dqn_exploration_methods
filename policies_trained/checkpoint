@@ -1,0 +1,2 @@
+model_checkpoint_path: "env-exploration-partial-sfr-100-seed1-00.40.dqn.ckpt"
+all_model_checkpoint_paths: "env-exploration-partial-sfr-100-seed1-00.40.dqn.ckpt"
