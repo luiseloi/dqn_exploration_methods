@@ -1,6 +1,6 @@
 # Partial exploration patterns in deep reinforcement learning task-oriented dialogue systems - DQN Implementation
 
-This Repository contains the code 
+This Repository/Work contains the code 
 
 ## Installation
 
@@ -46,5 +46,4 @@ If you would like to contribute to the project, please follow these steps:
 2. Create a new branch for your feature: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request.
-
+5. Submit a pull request
